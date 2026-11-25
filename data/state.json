@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-25",
+  "indexingSent": 0,
+  "inspections": {},
+  "lastRun": {
+    "kind": "watch",
+    "at": "2026-11-25T17:47:26.496Z",
+    "ms": 1520,
+    "result": {
+      "kind": "watch",
+      "watch": {
+        "added": 0,
+        "reopened": 0,
+        "total": 383,
+        "changedBySite": {
+          "bamboo": []
+        }
+      }
+    }
+  }
+}
